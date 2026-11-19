@@ -1,0 +1,14 @@
+[
+  {
+    "recipient": "+27838884567",
+    "id": "0838884567",
+    "message": "Where are you? You are late! I have asked you to be on time.",
+    "hash": "00:1:WHERETIME."
+  },
+  {
+    "recipient": "+27838884567",
+    "id": "0838884567",
+    "message": "Ok, I am leaving without you.",
+    "hash": "00:4:OKYOU."
+  }
+]
